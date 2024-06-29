@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thukhakyawe&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ##  **My Certifications 🏅**
-- [Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching](https://www.credly.com/badges/d75ca502-e8ea-491f-9679-f8934eaaefb8)
+- [Cisco Certified Network Associate Routing and Switching] (https://www.credly.com/badges/d75ca502-e8ea-491f-9679-f8934eaaefb8)
 
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/thukhakyawe)
