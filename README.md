@@ -19,7 +19,9 @@
 
 <p align="left"> 
   <img src="https://images.credly.com/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" width="125" height="125">
- 
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125">
+
+
 
 
 # 📊 GitHub Stats:
