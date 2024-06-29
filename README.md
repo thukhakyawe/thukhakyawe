@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS Projects & AWS Hands-On Labs<br>👯 I’m looking to collaborate on AWS Hands-On Labs<br>🤝 I’m looking for help with <br>🌱 I’m currently learning DevOps Technologies<br>💬 Ask me anything about Cloud<br>⚡ Fun fact
+🔭 I’m currently working on AWS Projects & AWS Hands-On Labs<br>👯 I’m looking to collaborate on AWS Hands-On Labs<br>🤝 I’m looking for help with terraform<br>🌱 I’m currently learning DevOps Technologies<br>💬 Ask me anything about Cloud<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -20,6 +20,9 @@
 <p align="left"> 
   <img src="https://images.credly.com/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="125" height="125">
+
 
 
 
