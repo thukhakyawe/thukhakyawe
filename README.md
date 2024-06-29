@@ -17,20 +17,9 @@
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/thukhakyawe)
 
-<p align="left">
-  <img src=<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d75ca502-e8ea-491f-9679-f8934eaaefb8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/1e4003a1-ffd4-4eb9-a9da-e14f486255d9/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/308a8fa3-7e23-4cc6-ba2a-6c67939851d4/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/5a1ba86e-8a0f-44cb-b7e2-4c192480fedf/image.png" width="125" height="125">
-	<img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="125" height="125">
-</p>
+<p align="left"> 
+  <img src="https://images.credly.com/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" width="125" height="125">
+ 
 
 
 # 📊 GitHub Stats:
