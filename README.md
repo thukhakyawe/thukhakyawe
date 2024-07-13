@@ -14,6 +14,7 @@
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/1d3c90c5-2fb5-429c-bc43-2404ff956380)
 - [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/f13cd1de-e7b8-43c3-8b3a-8b69e9c68e0e)
 - [Full Stack Observability Practitioner Exam](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/105522746)
+- [Multicloud Network Associate](https://www.credly.com/badges/8f70795b-2f90-4de7-b72a-f28ddaf5fb77/public_url)
 
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/thukhakyawe)
@@ -24,6 +25,7 @@
   <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="125" height="125">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105522746" width="125" height="125">
+  <img src="https://images.credly.com/size/220x220/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png" width="125" height="125">
 
 
 
