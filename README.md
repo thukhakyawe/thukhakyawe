@@ -13,8 +13,8 @@
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f5b287f8-bb16-411d-af4d-cf5caa845c70)
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/1d3c90c5-2fb5-429c-bc43-2404ff956380)
 - [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/f13cd1de-e7b8-43c3-8b3a-8b69e9c68e0e)
-- [Full Stack Observability Practitioner Exam](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/105522746)
-- [Multicloud Network Associate](https://www.credly.com/badges/8f70795b-2f90-4de7-b72a-f28ddaf5fb77/public_url)
+- [New Relics - Full Stack Observability Practitioner Exam](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/105522746)
+- [Aviatrix - Multicloud Network Associate](https://www.credly.com/badges/8f70795b-2f90-4de7-b72a-f28ddaf5fb77/public_url)
 
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/thukhakyawe)
