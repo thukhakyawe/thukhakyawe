@@ -10,9 +10,9 @@
 
 ##  **My Certifications 🏅**
 - [Cisco Certified Network Associate Routing and Switching](https://www.credly.com/badges/d75ca502-e8ea-491f-9679-f8934eaaefb8)
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f5b287f8-bb16-411d-af4d-cf5caa845c70)
-- [AWS Certified Developer – Associate](https://www.credly.com/badges/1d3c90c5-2fb5-429c-bc43-2404ff956380)
-- [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/f13cd1de-e7b8-43c3-8b3a-8b69e9c68e0e)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f5b287f8-bb16-411d-af4d-cf5caa845c70/public_url)
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/1d3c90c5-2fb5-429c-bc43-2404ff956380/public_url)
+- [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/f13cd1de-e7b8-43c3-8b3a-8b69e9c68e0e/public_url)
 - [New Relics - Full Stack Observability Practitioner](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/105522746)
 - [Aviatrix - Multicloud Network Associate](https://www.credly.com/badges/8f70795b-2f90-4de7-b72a-f28ddaf5fb77/public_url)
 - [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/d3e504d0-af88-4540-bc0c-859f929265d6/public_url)
