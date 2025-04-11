@@ -25,7 +25,7 @@
   <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="125" height="125">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105522746" width="125" height="125">
-  <img src="https://images.credly.com/size/220x220/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="125" height="125">
 
 
 
