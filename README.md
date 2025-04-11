@@ -15,17 +15,22 @@
 - [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/f13cd1de-e7b8-43c3-8b3a-8b69e9c68e0e)
 - [New Relics - Full Stack Observability Practitioner](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/105522746)
 - [Aviatrix - Multicloud Network Associate](https://www.credly.com/badges/8f70795b-2f90-4de7-b72a-f28ddaf5fb77/public_url)
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/d3e504d0-af88-4540-bc0c-859f929265d6/public_url)
+- [GitHub Foundations](https://www.credly.com/badges/4c14956c-f6a2-46f6-9227-5950b4a921cd/public_url)
 
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/thukhakyawe)
 
 <p align="left"> 
-  <img src="https://images.credly.com/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="125" height="125">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105522746" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
+
 
 
 
