@@ -17,6 +17,7 @@
 - [Aviatrix - Multicloud Network Associate](https://www.credly.com/badges/8f70795b-2f90-4de7-b72a-f28ddaf5fb77/public_url)
 - [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/d3e504d0-af88-4540-bc0c-859f929265d6/public_url)
 - [GitHub Foundations](https://www.credly.com/badges/4c14956c-f6a2-46f6-9227-5950b4a921cd/public_url)
+- [AWS Certified AI Practitioner](https://www.credly.com/badges/06537b05-8c32-4cf6-abce-84596456cea9/public_url)
 
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/thukhakyawe)
@@ -30,6 +31,7 @@
   <img src="https://images.credly.com/size/340x340/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="125" height="125">
 
 
 
