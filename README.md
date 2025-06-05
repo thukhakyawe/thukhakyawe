@@ -18,6 +18,7 @@
 - [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/d3e504d0-af88-4540-bc0c-859f929265d6/public_url)
 - [GitHub Foundations](https://www.credly.com/badges/4c14956c-f6a2-46f6-9227-5950b4a921cd/public_url)
 - [AWS Certified AI Practitioner](https://www.credly.com/badges/06537b05-8c32-4cf6-abce-84596456cea9/public_url)
+- [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/ThuKhaKyawe/80E8CADD297C4D07?sharingId=C7D6B0C59EEF881)
 
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/thukhakyawe)
@@ -32,6 +33,7 @@
   <img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="125" height="125">
 
 
 
