@@ -19,7 +19,8 @@
 - [GitHub Foundations](https://www.credly.com/badges/4c14956c-f6a2-46f6-9227-5950b4a921cd/public_url)
 - [AWS Certified AI Practitioner](https://www.credly.com/badges/06537b05-8c32-4cf6-abce-84596456cea9/public_url)
 - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/ThuKhaKyawe/80E8CADD297C4D07?sharingId=C7D6B0C59EEF881)
-
+- [GitHub Actions](https://www.credly.com/badges/3a00ef1c-dcc4-4b0c-b1fc-d72abc1ffd55/public_url)
+- [GitHub Advanced Security](https://www.credly.com/badges/31ab1481-b688-49cb-9b01-a4bc0ea05e36/public_url)
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/thukhakyawe)
 
@@ -34,7 +35,8 @@
   <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="125" height="125">
-
+  <img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="125" height="125">
 
 
 
