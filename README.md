@@ -29,7 +29,7 @@
   <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="125" height="125">
