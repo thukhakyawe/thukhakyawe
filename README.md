@@ -20,6 +20,7 @@
 - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/ThuKhaKyawe/80E8CADD297C4D07?sharingId=C7D6B0C59EEF881)
 - [GitHub Actions](https://www.credly.com/badges/3a00ef1c-dcc4-4b0c-b1fc-d72abc1ffd55/public_url)
 - [GitHub Advanced Security](https://www.credly.com/badges/31ab1481-b688-49cb-9b01-a4bc0ea05e36/public_url)
+- [GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-us/ThuKhaKyawe/178817865ED96CDC?sharingId=C7D6B0C59EEF881)
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/thukhakyawe)
 
@@ -35,6 +36,7 @@
   <img src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" width="125" height="125">
 
 
 
