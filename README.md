@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on AWS Projects & AWS Hands-On Labs<br>👯 I’m looking to collaborate on AWS Hands-On Labs<br>🤝 I’m looking for help with terraform<br>🌱 I’m currently learning DevOps Technologies<br>💬 Ask me anything about Cloud<br>⚡ Fun fact
+## 👋 About Me
+
+I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on building, automating, and optimizing infrastructure in the cloud, primarily using **AWS**. I believe in learning by doing, which is why I'm constantly getting my hands dirty with practical projects.
+
+- 🔭 **I’m currently working on:** Deep-dive AWS projects and creating detailed Hands-On Labs to solidify my knowledge and share my learning process.
+- 🌱 **I’m currently learning:** The core pillars of **DevOps**, including **Terraform** for IaC, **Docker** for containerization, **Kubernetes** for orchestration, and CI/CD pipelines.
+- 🤝 **I’m looking for help with:** **Terraform** best practices, advanced module design, and state management. Let's talk about how to structure complex infrastructures as code!
+- 👯 **I’m looking to collaborate on:** Open-source **AWS Hands-On Labs** or any project that helps the community learn cloud and DevOps concepts.
+- 💬 **Ask me about:** **AWS services** (EC2, S3, IAM, VPC, etc.), cloud fundamentals, or my journey from beginner to where I am now.
+- 📫 **How to reach me:** [https://www.linkedin.com/in/thukhakyawe/]
+- ⚡ **Fun fact:** When I'm not in the AWS console, I'm probably walking, gaming, reading, watching, or trying to perfect.
 
 
 ## 🌐 Socials:
