@@ -8,7 +8,7 @@ I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on
 - 👯 **I’m looking to collaborate on:** Open-source **AWS Hands-On Labs** or any project that helps the community learn cloud and DevOps concepts.
 - 💬 **Ask me about:** **AWS services** (EC2, S3, IAM, VPC, etc.), cloud fundamentals, or my journey from beginner to where I am now.
 - 📫 **How to reach me:** [https://www.linkedin.com/in/thukhakyawe/]
-- ⚡ **Fun fact:** When I'm not in the AWS console, I'm probably walking, gaming, reading, watching, or trying to perfect.
+- ⚡ **Fun fact:** When I'm not in the AWS console, I'm probably walking, gaming, reading, watching, or trying to better.
 
 
 ## 🌐 Socials:
