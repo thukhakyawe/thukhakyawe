@@ -7,7 +7,7 @@ I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on
 - 🤝 **I’m looking for help with:** **Terraform** best practices, advanced module design, and state management. Let's talk about how to structure complex infrastructures as code!
 - 👯 **I’m looking to collaborate on:** Open-source **AWS Hands-On Labs** or any project that helps the community learn cloud and DevOps concepts.
 - 💬 **Ask me about:** **AWS services** (EC2, S3, IAM, VPC, etc.), cloud fundamentals, or my journey from beginner to where I am now.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/thukhakyawe/)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/thukhakyawe/), [Website](https://thukhakyawe.hashnode.dev/)
 - ⚡ **Fun fact:** When I'm not in the AWS console, I'm probably walking, gaming, reading, watching, or trying to better.
 
 
