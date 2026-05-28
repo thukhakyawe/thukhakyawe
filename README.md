@@ -68,6 +68,6 @@ I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thukhakyawe&icon=1&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=thukhakyawe&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
