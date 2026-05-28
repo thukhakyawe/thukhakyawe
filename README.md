@@ -1,3 +1,15 @@
+<table>
+<tr>
+
+
+<td align="right">
+
+![](https://komarev.com/ghpvc/?username=thukhakyawe&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
 ## 👋 About Me
 
 I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on building, automating, and optimizing infrastructure in the cloud, primarily using **AWS**. I believe in learning by doing, which is why I'm constantly getting my hands dirty with practical projects.
