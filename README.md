@@ -7,13 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+Engineer;AWS+Certified+Professional;Terraform+%7C+Docker+%7C+Kubernetes" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions,ansible,prometheus,grafana" />
-</p>
-
-
 ## 👋 About Me
 
 I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on building, automating, and optimizing infrastructure in the cloud, primarily using **AWS**. I believe in learning by doing, which is why I'm constantly getting my hands dirty with practical projects.
