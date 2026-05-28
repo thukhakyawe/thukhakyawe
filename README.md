@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=thukhakyawe&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=header"/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=header"/>
 
 </div>
