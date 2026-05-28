@@ -7,25 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+Engineer;AWS+Certified+Professional;Terraform+%7C+Docker+%7C+Kubernetes" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=120&section=header&text=Cloud%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions,ansible,prometheus,grafana" />
 </p>
 
-# 👋 Hi, I'm Thu Kha Kyawe
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+Engineer;AWS+Certified+Professional;Terraform+%7C+Docker+%7C+Kubernetes" />
-</p>
-
-<p align="right">
-  
-![](https://komarev.com/ghpvc/?username=thukhakyawe&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
-
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=90&section=header"/>
 
 ## 👋 About Me
 
