@@ -13,6 +13,8 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions,ansible,prometheus,grafana" />
 </p>
 
+![snake gif](https://github.com/thukhakyawe/thukhakyawe/blob/output/github-contribution-grid-snake.svg)
+
 ## 👋 About Me
 
 I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on building, automating, and optimizing infrastructure in the cloud, primarily using **AWS**. I believe in learning by doing, which is why I'm constantly getting my hands dirty with practical projects.
