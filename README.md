@@ -72,4 +72,6 @@ I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 
+![](https://komarev.com/ghpvc/?username=thukhakyawe&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
