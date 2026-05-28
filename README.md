@@ -1,3 +1,9 @@
+# 👋 Hi, I'm Thu Kha Kyawe
+
+![](https://komarev.com/ghpvc/?username=thukhakyawe&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+
 ## 👋 About Me
 
 I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on building, automating, and optimizing infrastructure in the cloud, primarily using **AWS**. I believe in learning by doing, which is why I'm constantly getting my hands dirty with practical projects.
@@ -68,10 +74,6 @@ I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-![](https://komarev.com/ghpvc/?username=thukhakyawe&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-
-![](https://komarev.com/ghpvc/?username=thukhakyawe&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
