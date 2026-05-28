@@ -1,8 +1,12 @@
+<div align="center">
+
 # 👋 Hi, I'm Thu Kha Kyawe
 
 ![](https://komarev.com/ghpvc/?username=thukhakyawe&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
+</div>
 
 ## 👋 About Me
 
