@@ -41,6 +41,8 @@ I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on
 - [GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-us/ThuKhaKyawe/178817865ED96CDC?sharingId=C7D6B0C59EEF881)
 - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/19a4bf86-6d10-4f13-b94c-85ebb65044a9/public_url)
 - [AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/5e3bf959-2bdc-43aa-8c8e-647e116eb0a0/public_url)
+- [AWS Certified Security – Specialty](https://www.credly.com/badges/bb3e02c2-a724-475b-a08d-6ee1381a6165/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/acecc7e6-3156-4009-a05b-4fcb23629088/public_url)
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/thukhakyawe)
 
@@ -59,7 +61,8 @@ I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on
   <img src="https://images.credly.com/size/340x340/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="125" height="125">
-
+  <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="125" height="125">
 
 
 
