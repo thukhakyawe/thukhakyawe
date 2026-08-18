@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=thukhakyawe&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
 <p align="center">
