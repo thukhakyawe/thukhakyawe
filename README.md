@@ -76,7 +76,24 @@ I'm a cloud enthusiast passionately navigating my DevOps journey. My focus is on
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thukhakyawe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thukhakyawe&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=thukhakyawe&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thukhakyawe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+</p>
 
 ---
 
